@@ -6,3 +6,4 @@ This repository contains the sample code for different design patterns discussed
 
 **Creational design patterns**
 - Builder Pattern
+- Prototype Pattern
